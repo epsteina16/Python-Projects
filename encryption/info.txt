@@ -1,0 +1,3 @@
+RSA python script uses the rsa algorithm to encrypt given number through raw input, returns encrypted number and then deencrypts that number to get your original number.
+
+Can be used for credit card numbers, phone numbers etc.
