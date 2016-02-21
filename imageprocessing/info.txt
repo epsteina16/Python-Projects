@@ -1,0 +1,1 @@
+Attempting to build python application to filter images, read jpeg files etc.
