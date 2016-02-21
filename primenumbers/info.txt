@@ -1,0 +1,5 @@
+All python scripts related to prime numbers
+
+Mersenne primes - 2^x - 1 - python script uses raw input and then tests if that number makes a mersenne prime
+
+Prime number calculator - calculates all prime numbers up until a certain number using raw input and modulus functions
