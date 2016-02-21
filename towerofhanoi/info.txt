@@ -1,0 +1,3 @@
+Python script that solves the tower of hanoi recursive problem visually.
+
+Uses pygame module.
